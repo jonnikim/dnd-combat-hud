@@ -1,2 +1,14 @@
-node_modules
 build
+node_modules/
+
+# TypeScript v1 declaration files
+typings/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional eslint cache
+.eslintcache
+
+.env
+.env.test
